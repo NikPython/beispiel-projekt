@@ -1,2 +1,3 @@
 # beispiel-projekt
-![Armutsrate](armutsquote.html)
+[Interaktives Diagramm anzeigen](chart_pov.html)
+
